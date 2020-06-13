@@ -2,7 +2,7 @@ import requests
 import time
 import pprint
 
-TOKEN = '1065481689:AAHijHJaohcanNZqZvYka0caReD9S44xPDw'
+TOKEN = '1168070893:AAF0Woq78-CKmpbR2s9ZynPU21fUMikbG6U'
 
 BOT_URL = f'https://api.telegram.org/bot{TOKEN}'
 
